@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.springframework.boot:spring-boot-starter-tomcat:1.1.8.RELEASE" type="repository">
+    <properties maven-id="org.springframework.boot:spring-boot-starter-tomcat:1.1.8.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-tomcat-1.1.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-core-7.0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-el-7.0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-logging-juli-7.0.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
